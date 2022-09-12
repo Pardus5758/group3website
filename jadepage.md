@@ -8,7 +8,7 @@
 
 ## About Me
 
-Howdy! My name is Jade Sung. I am senior here at TU double majoring in Human Resources Development and Technology Management with a minor in Business. I was born and raised in Dallas, but I plan to move to Austin when I graduate in the Spring.
+Howdy! My name is Jade Sung. I am senior here at Texas A&M University double majoring in Human Resources Development and Technology Management with a minor in Business. I was born and raised in Dallas, but I plan to move to Austin when I graduate in the Spring.
 
 
 <p align="center">
