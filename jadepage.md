@@ -23,7 +23,7 @@ Howdy! My name is Jade Sung. I am senior here at TU double majoring in Human Res
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/EzVpdGg2Ke7I4JiidX/giphy.gif">
+  <img src="https://media.giphy.com/media/8PEfGO4EdLyX1kII9Q/giphy.gif">
 </p>
 
 ## 2022 at a Glance 
