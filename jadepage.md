@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>About Me</h1>
-<p>Howdy! I am senior here at TAMU double majoring in Human Resources Development and Technology Management.</p>
-<p>I was born and raised in Dallas, TX and I plan to move to Austin after I graduate this spring.<p>
-
-</body>
-</html>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/swjLm5coxz68w8fAsW/giphy.gif">
