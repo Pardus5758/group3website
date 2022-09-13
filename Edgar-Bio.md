@@ -19,10 +19,10 @@
 
 <h3 style=" font-size:230%; color:maroon;">  Goals</h3>
 
-    <p style=" background-color:whitesmoke; font-size:160%; color: maroon">
-        First and foremost I want to graduate!
-        I am planning on taking a variety of certificates before graduating, including CompTIA Net+ and Cloud+. 
-        I am hoping to get an IT related job after graduating from Texas A&M and hopefully finding out what I want to work in before I graduate. </p>
+<p style=" background-color:whitesmoke; font-size:160%; color: maroon">
+    First and foremost I want to graduate! 
+    I am planning on taking a variety of certificates before graduating, including CompTIA Net+ and Cloud+. 
+    I am hoping to get an IT related job after graduating from Texas A&M and hopefully finding out what I want to work in before I graduate. </p>
        
 <div class="row">
     <div class="column" style="background-color:whitesmoke;">
