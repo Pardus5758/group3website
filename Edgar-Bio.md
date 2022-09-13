@@ -18,7 +18,7 @@
     Technology is something that I really enjoy learning. I have been building desktops and programming since high school and haven't looked back since. </p>
    
 
-<h3 style=" font-size:230%; color:maroon;">  Goals</h3>
+<h3 style=" font-size:230%; color:maroon;">  !!Goals!!</h3>
 
 <p style=" background-color:whitesmoke; font-size:160%; color: maroon">
     First and foremost I want to graduate! 
