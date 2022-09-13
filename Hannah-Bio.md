@@ -13,6 +13,6 @@
   <img src="https://user-images.githubusercontent.com/113316061/189798904-755b75ad-30bc-4300-b55e-e9f5e58d3ba8.jpg" width="400" height="500">
    </p>
   
-  ## Contact Info 
+  ## Contact Information 
   
   - You can email me at hannahjang@tamu.edu or han.jan647@gmail.com
